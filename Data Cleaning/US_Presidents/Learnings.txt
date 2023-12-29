@@ -1,0 +1,14 @@
+Here's a structured summary of the data cleaning techniques you learned in Excel:
+
+1. **Removing Duplicates**: Ensures data accuracy by eliminating duplicate entries.
+2. **Changing Column Names**:
+   - *President*: Converted to uppercase using `=UPPER(C3)` and to proper case with `=PROPER(C3)`.
+   - *Vice*: Extra spaces removed using `=TRIM(G2)`.
+   - *Prior*: No changes made.
+   - *Party*: Corrected spelling errors.
+   - *Salary*: Formatted to display as numbers.
+3. **Dates**: Applied short date format for consistency.
+4. **Replacing Old Columns**: Updated the dataset with cleaned columns.
+5. **Deleting Unwanted Columns**: Streamlined the dataset by removing irrelevant columns.
+
+These steps contribute to enhancing the dataset's quality, making it more suitable for analysis or reporting.
